@@ -18,13 +18,13 @@
     <h1>THIS EBOOK WILL</h1>
     <h1>SAVE YOUR MONEY</h1>
     <h1 class="mb-m">TIME & NERVES</h1>
-    <p class="light-grey">
+    <p class="light-grey mb-l">
       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe non libero
       hic iusto temporibus provident labore suscipit beatae aspernatur ipsum
       dolorum, fuga soluta quisquam, praesentium harum asperiores aperiam
       doloribus ullam.
     </p>
-    <Button onclick={() => console.log("click")}>Purchase for $10</Button>
+    <Button>Purchase for $10</Button>
   </div>
 </section>
 
